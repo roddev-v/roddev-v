@@ -11,3 +11,6 @@ I focus mainly on the web world, and since April 2024, I've been working at LSEG
 - Working towards contributing to open source projects that I am interested in and tools that I've used throughout the years.
 - Learning Kubernetes and aspiring CKAD.
 - History, Geography, and Watches enthusiast.
+
+✏️ Skills:
+[!(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
