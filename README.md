@@ -13,4 +13,5 @@ I focus mainly on the web world, and since April 2024, I've been working at LSEG
 - History, Geography, and Watches enthusiast.
 
 ✏️ Skills:
+
 [![](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
