@@ -14,4 +14,4 @@ I focus mainly on the web world, and since April 2024, I've been working at LSEG
 
 ✏️ Skills:
 
-[![](https://skillicons.dev/icons?i=js,ts,html,css,sass,angular,reactivex,redis,redux,react,vue,elasticsearch,firebase,flutter,wasm,docker,kubernetes,dart,aws,bootstrap,github,gitlab,java,jest,mongodb,mysql,nestjs,nginx,nodejs,postgres,postman,prisma,rabbitmq,vscode)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,ts,html,css,sass,angular,reactivex,redis,redux,react,vue,elasticsearch,firebase,flutter,wasm,docker,kubernetes,dart,aws,bootstrap,github,gitlab,java,jest,mongodb,mysql,nestjs,nginx,nodejs,postgres,postman,prisma,rabbitmq,vscode,kafka)](https://skillicons.dev)
