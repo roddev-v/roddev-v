@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there! 👋 I'm Daniel, a Romanian Software Engineer.
 
-<!--
-**roddev-v/roddev-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus mainly on the web world, and since April 2024, I've been working at LSEG (London Stock Exchange Group) as a Fullstack Engineer.
 
-Here are some ideas to get you started:
+💻 Sometimes, I teach classes about web development with React, Angular, and NodeJS at [Telecom Academy](https://www.telacad.ro/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📲 Since 2021, I've been part of [CityPack](https://www.citypackapp.com/), an application that promotes experiences among teens and brings businesses and customers closer.
+
+📊 Learning and Side Projects:
+- Homelab: Learning and playing with containers, orchestration, automation, and more on a bare-metal homelab.
+- Working towards contributing to open source projects that I am interested in and tools that I've used throughout the years.
+- Learning Kubernetes and aspiring CKAD.
+- History, Geography, and Watches enthusiast.
