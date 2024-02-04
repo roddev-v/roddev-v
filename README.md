@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Daniel, a Romanian Software Engineer.
 
-I focus mainly on the web world, and since April 2024, I've been working at LSEG (London Stock Exchange Group) as a Fullstack Engineer.
+I focus mainly on the web world, and since April 2024, I've been working at [LSEG (London Stock Exchange Group)](https://www.lseg.com/en) as a Fullstack Engineer.
 
 💻 Sometimes, I teach classes about web development with React, Angular, and NodeJS at [Telecom Academy](https://www.telacad.ro/).
 
