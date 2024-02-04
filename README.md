@@ -10,6 +10,7 @@ I focus mainly on the web world, and since April 2024, I've been working at LSEG
 - Homelab: Learning and playing with containers, orchestration, automation, and more on a bare-metal homelab.
 - Working towards contributing to open source projects that I am interested in and tools that I've used throughout the years.
 - Learning Kubernetes and aspiring CKAD.
+- Flutter development.
 - History, Geography, and Watches enthusiast.
 
 ✏️ Skills:
